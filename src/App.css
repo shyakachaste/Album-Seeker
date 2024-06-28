@@ -58,7 +58,7 @@
   margin-right: 10px;
   padding-left: 10px;
   transition: border-color 0.25s;
-  margin-bottom: 10px;
+  margin-bottom: 6px;
   border-color: #535bf2;
 }
 
@@ -116,7 +116,7 @@
   }
 
   .search-input {
-    width: 100%;
+    width: 400px;
     max-width: none;
     margin-bottom: 0;
     margin-right: 10px;
@@ -134,14 +134,14 @@
   }
 
   .search-input {
-    width: 100%;
+    width: 300px;
     max-width: none;
     margin-right: 0;
     margin-bottom: 10px;
   }
 
   .buttonsearch {
-    width: 100%;
+    width: 100px;
   }
 
   .album-card {

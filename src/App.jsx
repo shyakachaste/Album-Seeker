@@ -74,7 +74,7 @@ function App() {
       <Container className="container">
         <InputGroup className="search-bar">
           <FormControl
-            placeholder="Search For Artist"
+            placeholder="Enter Artist Name"
             type="text"
             aria-label="Search for an Artist"
             onKeyDown={(event) => {
